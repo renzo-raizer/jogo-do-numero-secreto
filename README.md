@@ -11,4 +11,4 @@
 </div>
 
 ## Gist
-<link>https://gist.github.com/renzo-raizer/7ac8b510549b9173c373af646d9f9218</link>
+<p>Código de leitura de tela:</p> <link>https://gist.github.com/renzo-raizer/7ac8b510549b9173c373af646d9f9218</link>
